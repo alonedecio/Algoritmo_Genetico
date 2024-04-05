@@ -1,5 +1,3 @@
-# Algoritmo_Genetico
-
 # Algoritmo Genético para o Problema da Mochila
 
 Este repositório contém a implementação de um algoritmo genético projetado para resolver o clássico Problema da Mochila. O objetivo é maximizar o valor total dos itens incluídos na mochila, sem exceder sua capacidade de peso.
